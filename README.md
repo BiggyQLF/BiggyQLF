@@ -9,7 +9,7 @@
   <a href="#contact"><b>Contact</b></a>
 </p>
 
-Hi, I'm Biggy, a developer who enjoys building things people actually use. I make applications, websites and games, from Twitch extensions and Discord bots to C++ on Unreal Engine 5. I'm persistent and I love what I do: when a project is viable and worth it, I see it through to the end.
+Hi, I'm Biggy, a developer who loves creating new things and making them better for the people who use them. I build applications, websites and games, including Twitch extensions and Discord bots. I care about user experience, and when a project is viable and worth it, I see it through to the end.
 
 ## Experience
 
