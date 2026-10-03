@@ -8,17 +8,19 @@
   <a href="#tech-stack"><b>Tech stack</b></a>
 </p>
 
-Hi, I'm Biggy, a developer who enjoys building things people actually use. I make applications, websites and games, from Twitch extensions and Discord bots to C++ on Unreal Engine 5. I'm persistent, I love what I do, and I see my projects through to the end.
+Hi, I'm Biggy, a developer who enjoys building things people actually use. I make applications, websites and games, from Twitch extensions and Discord bots to C++ on Unreal Engine 5. I'm persistent and I love what I do: when a project is viable and worth it, I see it through to the end.
 
 ## Experience
 
 <a href="https://github.com/StrangeLoopGames"><img src="assets/experience-strange-loop.svg" width="100%" alt="Previous experience at Strange Loop Games. Modder on Eco, with access to the game's source code. Language: C#. Link to the Strange Loop Games organization on GitHub." /></a>
 
+<a href="https://store.steampowered.com/app/382310/Eco/"><img src="https://img.shields.io/badge/Eco_on_Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Eco on Steam" /></a>
+
 ## Applications
 
-<a href="https://wardogs-companion.vercel.app"><img src="assets/featured-wardogs-companion.svg" width="100%" alt="Featured application: WARDOGS Companion, a Twitch extension. Your WARDOGS loadout, live on stream. Streamers build it once; viewers open it over the video. 273 items, English and French. Built with React, TypeScript and Vite." /></a>
+<a href="https://github.com/Wardogs-Companion"><img src="assets/featured-wardogs-companion-app.svg" width="100%" alt="Featured application: WARDOGS Companion, a Twitch extension. Your WARDOGS loadout, live on stream. Streamers build it once; viewers open it over the video. 273 items, English and French. Built with React, TypeScript and Vite. Link to the Wardogs-Companion organization on GitHub." /></a>
 
-<img src="assets/app-wardogs-companion-bot.svg" width="100%" alt="WARDOGS Companion Bot. Application, Discord bot. Runs the project's Discord server: role buttons, support tickets, maintenance. JavaScript, Node.js, discord.js." />
+<a href="https://github.com/Wardogs-Companion"><img src="assets/app-wardogs-companion-discord-bot.svg" width="100%" alt="WARDOGS Companion Bot. Application, Discord bot. Runs the project's Discord server: role buttons, support tickets, maintenance. JavaScript, Node.js, discord.js. Link to the Wardogs-Companion organization on GitHub." /></a>
 
 ## Websites
 
