@@ -5,7 +5,8 @@
   <a href="#applications"><b>Applications</b></a> ·
   <a href="#websites"><b>Websites</b></a> ·
   <a href="#unreal-engine-projects"><b>Unreal Engine projects</b></a> ·
-  <a href="#tech-stack"><b>Tech stack</b></a>
+  <a href="#tech-stack"><b>Tech stack</b></a> ·
+  <a href="#contact"><b>Contact</b></a>
 </p>
 
 Hi, I'm Biggy, a developer who enjoys building things people actually use. I make applications, websites and games, from Twitch extensions and Discord bots to C++ on Unreal Engine 5. I'm persistent and I love what I do: when a project is viable and worth it, I see it through to the end.
@@ -74,7 +75,8 @@ Hi, I'm Biggy, a developer who enjoys building things people actually use. I mak
   <img src="https://img.shields.io/badge/Twitch_Extensions-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Extensions" />
 </p>
 
-<!--
 ## Contact
-[Twitch](https://www.twitch.tv/TON_PSEUDO) · [LinkedIn](https://www.linkedin.com/in/TON_PROFIL/)
--->
+
+<p align="center">
+  <a href="mailto:contactbiggydev@gmail.com"><img src="https://img.shields.io/badge/Email-contactbiggydev%40gmail.com-1f6feb?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" alt="Email: contactbiggydev@gmail.com" /></a>
+</p>
