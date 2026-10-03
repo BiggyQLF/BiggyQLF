@@ -12,29 +12,47 @@ Hi, I'm Biggy, a developer who enjoys building things people actually use. I mak
 
 ## Experience
 
-<a href="https://github.com/StrangeLoopGames"><img src="assets/experience-slg-card.svg" width="100%" alt="Previous experience at Strange Loop Games. Modder on Eco, with access to the game's source code. Language: C#." /></a>
-<a href="https://github.com/StrangeLoopGames"><img src="assets/btn-github-strangeloopgames.svg" height="46" alt="Strange Loop Games on GitHub" /></a>
-<a href="https://store.steampowered.com/app/382310/Eco/"><img src="assets/btn-eco-on-steam.svg" height="46" alt="Eco on Steam" /></a>
+<p align="right">
+  <a href="https://github.com/StrangeLoopGames"><img src="assets/experience-slg-card.svg" width="100%" alt="Previous experience at Strange Loop Games. Modder on Eco, with access to the game's source code. Language: C#." /></a>
+  <a href="https://github.com/StrangeLoopGames"><img src="https://img.shields.io/badge/GitHub-StrangeLoopGames-15803d?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="GitHub: StrangeLoopGames" /></a>
+  <a href="https://store.steampowered.com/app/382310/Eco/"><img src="https://img.shields.io/badge/Steam-Eco-15803d?style=flat-square&logo=steam&logoColor=white&labelColor=161b22" alt="Steam: Eco" /></a>
+</p>
 
 ## Applications
 
-<a href="https://github.com/Wardogs-Companion"><img src="assets/featured-wardogs-companion-card.svg" width="100%" alt="Featured application: WARDOGS Companion, a Twitch extension. Your WARDOGS loadout, live on stream. Streamers build it once; viewers open it over the video. 273 items, English and French. Built with React, TypeScript and Vite." /></a>
-<a href="https://github.com/Wardogs-Companion"><img src="assets/btn-github-wardogs-companion.svg" height="46" alt="Wardogs-Companion on GitHub" /></a>
-<a href="https://wardogs-companion.vercel.app"><img src="assets/btn-wardogs-companion-website.svg" height="46" alt="WARDOGS Companion website" /></a>
+<p align="right">
+  <a href="https://wardogs-companion.vercel.app"><img src="assets/featured-wardogs-companion-card.svg" width="100%" alt="Featured application: WARDOGS Companion, a Twitch extension. Your WARDOGS loadout, live on stream. Streamers build it once; viewers open it over the video. 273 items, English and French. Built with React, TypeScript and Vite." /></a>
+  <a href="https://wardogs-companion.vercel.app"><img src="https://img.shields.io/badge/Website-wardogs--companion.vercel.app-6d28d9?style=flat-square&labelColor=161b22" alt="Website: wardogs-companion.vercel.app" /></a>
+  <a href="https://github.com/Wardogs-Companion"><img src="https://img.shields.io/badge/GitHub-Wardogs--Companion-6d28d9?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="GitHub: Wardogs-Companion" /></a>
+</p>
 
-<a href="https://github.com/Wardogs-Companion"><img src="assets/app-wardogs-companion-discord-bot.svg" width="100%" alt="WARDOGS Companion Bot. Application, Discord bot. Runs the project's Discord server: role buttons, support tickets, maintenance. JavaScript, Node.js, discord.js. Link to the Wardogs-Companion organization on GitHub." /></a>
+<p align="right">
+  <a href="https://github.com/Wardogs-Companion"><img src="assets/app-discord-bot.svg" width="100%" alt="WARDOGS Companion Bot. Application, Discord bot. Runs the project's Discord server: role buttons, support tickets, maintenance. JavaScript, Node.js, discord.js. In development." /></a>
+  <a href="https://github.com/Wardogs-Companion"><img src="https://img.shields.io/badge/GitHub-Wardogs--Companion-6d28d9?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="GitHub: Wardogs-Companion" /></a>
+</p>
 
 ## Websites
 
-<a href="https://wardogs-companion.vercel.app"><img src="assets/web-wardogs-companion.svg" width="100%" alt="WARDOGS Companion website, in English and French: intro film, presentation, privacy policy and terms. Astro, TypeScript, Vercel." /></a>
+<p align="right">
+  <a href="https://wardogs-companion.vercel.app"><img src="assets/web-wardogs-companion-site.svg" width="100%" alt="WARDOGS Companion website, in English and French: intro film, presentation, privacy policy and terms. Astro, TypeScript, Vercel. Live." /></a>
+  <a href="https://wardogs-companion.vercel.app"><img src="https://img.shields.io/badge/Website-wardogs--companion.vercel.app-6d28d9?style=flat-square&labelColor=161b22" alt="Website: wardogs-companion.vercel.app" /></a>
+  <a href="https://github.com/Wardogs-Companion/wardogs-companion-website"><img src="https://img.shields.io/badge/GitHub-wardogs--companion--website-6d28d9?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="GitHub: wardogs-companion-website" /></a>
+</p>
 
-<a href="http://www.lemarinus.fr"><img src="assets/web-le-marinus.svg" width="100%" alt="Le Marinus website. Food truck in Chartres: menu, weekly schedule, events and online orders. PHP, MySQL, JavaScript." /></a>
+<p align="right">
+  <a href="http://www.lemarinus.fr"><img src="assets/web-le-marinus-site.svg" width="100%" alt="Le Marinus website. Food truck in Chartres: menu, weekly schedule, events and online orders. PHP, MySQL, JavaScript. Live." /></a>
+  <a href="http://www.lemarinus.fr"><img src="https://img.shields.io/badge/Website-lemarinus.fr-b45309?style=flat-square&labelColor=161b22" alt="Website: lemarinus.fr" /></a>
+</p>
 
 ## Unreal Engine projects
 
-<img src="assets/ue-last-haven.svg" width="100%" alt="Last Haven. Unreal Engine 5.8, co-op survival: third-person survival, colony management and salvage expeditions. C++. In development." />
+<p align="right">
+  <img src="assets/ue-last-haven.svg" width="100%" alt="Last Haven. Unreal Engine 5.8, co-op survival: third-person survival, colony management and salvage expeditions. C++. In development." />
+</p>
 
-<img src="assets/ue-moving-compagny.svg" width="100%" alt="Moving Compagny. Unreal Engine 5.8, co-op physics game for 1 to 4 players: a crew of movers chasing a weekly quota. C++. In development." />
+<p align="right">
+  <img src="assets/ue-moving-compagny.svg" width="100%" alt="Moving Compagny. Unreal Engine 5.8, co-op physics game for 1 to 4 players: a crew of movers chasing a weekly quota. C++. In development." />
+</p>
 
 ## Tech stack
 
