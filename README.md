@@ -8,11 +8,11 @@
   <a href="#tech-stack"><b>Tech stack</b></a>
 </p>
 
-Hi, I'm Biggy, a developer who enjoys building things people actually use. I make applications, websites and games, from Twitch extensions and Discord bots to C++ on Unreal Engine 5, and I like taking a project all the way from the first idea to something finished and online.
+Hi, I'm Biggy, a developer who enjoys building things people actually use. I make applications, websites and games, from Twitch extensions and Discord bots to C++ on Unreal Engine 5. I'm persistent, I love what I do, and I see my projects through to the end.
 
 ## Experience
 
-<a href="https://github.com/StrangeLoopGames"><img src="assets/experience-strangeloop.svg" width="100%" alt="Previous experience at Strange Loop Games. Modder on Eco, with access to the game's source code. Language: C#. Link to the Strange Loop Games organization on GitHub." /></a>
+<a href="https://github.com/StrangeLoopGames"><img src="assets/experience-strange-loop.svg" width="100%" alt="Previous experience at Strange Loop Games. Modder on Eco, with access to the game's source code. Language: C#. Link to the Strange Loop Games organization on GitHub." /></a>
 
 ## Applications
 
