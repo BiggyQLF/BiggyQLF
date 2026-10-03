@@ -8,7 +8,7 @@
   <a href="#tech-stack"><b>Tech stack</b></a>
 </p>
 
-Hi, I'm Biggy. I was a modder on **Eco** at **Strange Loop Games**, with access to the game's source code. Today I build applications and websites, and I'm working on two co-op games on Unreal Engine 5. My main project is **WARDOGS Companion**, a Twitch extension for WARDOGS players and streamers, with its own website and Discord bot.
+Hi, I'm Biggy, a developer who enjoys building things people actually use. I make applications, websites and games, from Twitch extensions and Discord bots to C++ on Unreal Engine 5, and I like taking a project all the way from the first idea to something finished and online.
 
 ## Experience
 
