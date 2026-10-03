@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="Biggy. I build applications, websites and games. Previously modding Eco at Strange Loop Games, with source-code access." />
+<img src="assets/banner-biggy.svg" width="100%" alt="Biggy, developer. I build applications, websites and games." />
 
 <p align="center">
   <a href="#experience"><b>Experience</b></a> ·
