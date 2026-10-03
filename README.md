@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Biggy. I build applications, websites and games. Previously modding Eco at Strange Loop Games, with source-code access." />
+<img src="assets/banner.svg" width="100%" alt="Biggy. I build applications, websites and games. Previously modding Eco at Strange Loop Games, with source-code access." />
 
 <p align="center">
   <a href="#applications"><b>Applications</b></a> ·
@@ -51,7 +51,7 @@ Hi, I'm Biggy. I build applications and websites, and I'm working on two co-op g
 
 ## Experience
 
-<img src="assets/experience-strange-loop-games.svg" width="100%" alt="Strange Loop Games. Modder on Eco, working with access to the game's source code. C#." />
+<img src="assets/experience-eco.svg" width="100%" alt="Strange Loop Games. Modder on Eco, working with access to the game's source code. C#." />
 
 ## Tech stack
 
