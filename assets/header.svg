@@ -1,72 +1,59 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="t">
-  <title id="t">BiggyQLF. I build co-op games in C++ on Unreal Engine.</title>
+  <title id="t">Biggy. I build applications, websites and games. Previously modding Eco at Strange Loop Games, with source-code access.</title>
   <style>
     .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
     .mono { font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
     .float { animation: float 7s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .3; } }
     @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
-    @media (prefers-reduced-motion: reduce) { .float { animation: none; } }
+    @media (prefers-reduced-motion: reduce) { .pulse, .float { animation: none; } }
   </style>
   <defs>
     <clipPath id="card"><rect width="1200" height="420" rx="18"/></clipPath>
     <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
       <path d="M44 0H0V44" fill="none" stroke="#fff" stroke-opacity=".06" stroke-width="1"/>
     </pattern>
-    <radialGradient id="fade" cx="920" cy="210" r="560" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#fff"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    <radialGradient id="fade" cx="930" cy="210" r="560" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
     </radialGradient>
     <mask id="gridMask"><rect width="1200" height="420" fill="url(#fade)"/></mask>
-    <radialGradient id="glow" cx="920" cy="210" r="260" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#f5a524" stop-opacity=".16"/>
-      <stop offset="1" stop-color="#f5a524" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <radialGradient id="g0" cx="860" cy="240" r="190" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#22c97f" stop-opacity=".13"/><stop offset="1" stop-color="#22c97f" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g1" cx="930" cy="200" r="190" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f8485e" stop-opacity=".13"/><stop offset="1" stop-color="#f8485e" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="1000" cy="230" r="190" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#2ea8f2" stop-opacity=".13"/><stop offset="1" stop-color="#2ea8f2" stop-opacity="0"/></radialGradient>
   </defs>
 
   <g clip-path="url(#card)">
     <rect width="1200" height="420" fill="#0b0e14"/>
     <rect width="1200" height="420" fill="url(#grid)" mask="url(#gridMask)"/>
-    <circle cx="920" cy="210" r="260" fill="url(#glow)"/>
+    <rect width="1200" height="420" fill="url(#g0)"/>
+    <rect width="1200" height="420" fill="url(#g1)"/>
+    <rect width="1200" height="420" fill="url(#g2)"/>
   </g>
   <rect x="1" y="1" width="1198" height="418" rx="17" fill="none" stroke="#1f2633" stroke-width="2"/>
 
-  <!-- Viewport chrome -->
-  <g class="mono" font-size="12" fill="#8b95a5" text-anchor="middle">
-    <rect x="1022" y="26" width="100" height="26" rx="6" fill="#fff" fill-opacity=".03" stroke="#fff" stroke-opacity=".08"/>
-    <text x="1072" y="43.5">Perspective</text>
-    <rect x="1130" y="26" width="44" height="26" rx="6" fill="#fff" fill-opacity=".03" stroke="#fff" stroke-opacity=".08"/>
-    <text x="1152" y="43.5">Lit</text>
-  </g>
+  <text x="80" y="128" class="mono" font-size="15" letter-spacing="3" fill="#8b95a5">APPLICATIONS · WEBSITES · UNREAL ENGINE</text>
+  <text x="74" y="214" class="sans" font-size="96" font-weight="700" letter-spacing="-2" fill="#f0f3f6">Biggy</text>
+  <text x="80" y="262" class="sans" font-size="26" fill="#9aa4b2">I build applications, websites and games.</text>
+  <rect x="80" y="290" width="20" height="3" fill="#22c97f"/><rect x="100" y="290" width="20" height="3" fill="#f8485e"/><rect x="120" y="290" width="20" height="3" fill="#2ea8f2"/>
+  <text x="80" y="330" class="sans" font-size="18" fill="#8b95a5">Previously modding <tspan fill="#f0f3f6" font-weight="600">Eco</tspan> at <tspan fill="#f0f3f6" font-weight="600">Strange Loop Games</tspan>, with source-code access.</text>
 
-  <!-- Identity -->
-  <text x="80" y="126" class="mono" font-size="15" letter-spacing="3" fill="#f5a524">UNREAL ENGINE 5 · C++ · MULTIPLAYER</text>
-  <text x="76" y="208" class="sans" font-size="88" font-weight="700" letter-spacing="-1.5" fill="#f0f3f6">BiggyQLF</text>
-  <text x="80" y="258" class="sans" font-size="26" fill="#9aa4b2">I build co-op games in C++ on Unreal Engine.</text>
-  <line x1="80" y1="290" x2="140" y2="290" stroke="#2a3342" stroke-width="2"/>
-  <text x="80" y="326" class="sans" font-size="18" fill="#8b95a5">Previously modding at <tspan fill="#f0f3f6" font-weight="600">Strange Loop Games</tspan>, with source-code access.</text>
-
-  <!-- Selected actor + translate gizmo -->
   <g class="float">
-    <path d="M920 210L784.9 132L920 54L1055.1 132Z" fill="#fff" fill-opacity=".05"/>
-    <path d="M920 210L784.9 132L784.9 288L920 366Z" fill="#fff" fill-opacity=".015"/>
-    <path d="M920 210L1055.1 132L1055.1 288L920 366Z" fill="#fff" fill-opacity=".03"/>
-    <g fill="none" stroke="#f5a524" stroke-width="2" stroke-linejoin="round" filter="url(#soft)" opacity=".9">
-      <path d="M920 54L1055.1 132L1055.1 288L920 366L784.9 288L784.9 132Z"/>
-      <path d="M920 210L1055.1 132M920 210L784.9 132M920 210L920 366"/>
+    <g transform="translate(787.4 67.4) scale(0.62)">
+    <defs>
+      <linearGradient id="lg" x1="0" y1="160" x2="0" y2="293" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#34e3a0"/><stop offset="1" stop-color="#10b36a"/></linearGradient>
+      <linearGradient id="lr" x1="0" y1="146" x2="0" y2="311" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ff6f74"/><stop offset="1" stop-color="#f23a50"/></linearGradient>
+      <linearGradient id="lb" x1="0" y1="160" x2="0" y2="296" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#48caff"/><stop offset="1" stop-color="#1494e3"/></linearGradient>
+    </defs>
+    <g fill="none" stroke="#f3f4f8" stroke-width="16" stroke-linecap="round">
+      <path d="M142 62H348A50 50 0 0 1 398 112V322"/>
+      <path d="M62 138V347A50 50 0 0 0 112 397H318"/>
     </g>
-
-    <g stroke-width="4" stroke-linecap="round">
-      <line x1="920" y1="210" x2="920" y2="118" stroke="#3b82f6"/>
-      <line x1="920" y1="210" x2="840.3" y2="256" stroke="#ef4444"/>
-      <line x1="920" y1="210" x2="999.7" y2="256" stroke="#22c55e"/>
+    <g stroke-linecap="round">
+      <line x1="188" y1="178" x2="146" y2="275" stroke="url(#lg)" stroke-width="36"/>
+      <line x1="257" y1="165" x2="205" y2="292" stroke="url(#lr)" stroke-width="38"/>
+      <line x1="316" y1="177" x2="271" y2="279" stroke="url(#lb)" stroke-width="34"/>
     </g>
-    <path d="M920 100L911 118H929Z" fill="#3b82f6"/>
-    <path d="M824.7 265L844.8 263.8L835.8 248.2Z" fill="#ef4444"/>
-    <path d="M1015.3 265L995.2 263.8L1004.2 248.2Z" fill="#22c55e"/>
-    <circle cx="920" cy="210" r="7" fill="#f0f3f6"/>
+    </g>
   </g>
 </svg>

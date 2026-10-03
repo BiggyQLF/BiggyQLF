@@ -1,17 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-labelledby="t">
-  <title id="t">Strange Loop Games. Modder working with access to the game’s source code.</title>
+  <title id="t">Strange Loop Games. EXPERIENCE · MODDING · ECO. Modder on Eco, working with access to the game’s source code.</title>
   <style>
     .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
     .mono { font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; }
     .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    .float { animation: float 7s ease-in-out infinite; }
     @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .3; } }
-    @media (prefers-reduced-motion: reduce) { .pulse { animation: none; } }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+    @media (prefers-reduced-motion: reduce) { .pulse, .float { animation: none; } }
   </style>
-  <rect x="1" y="1" width="1198" height="198" rx="17" fill="#0b0e14" stroke="#5a4314" stroke-width="2"/>
-  <rect x="56" y="51" width="10" height="10" rx="2" fill="#f5a524"/>
-  <text x="78" y="61" class="mono" font-size="15" letter-spacing="2.5" fill="#8b95a5">EXPERIENCE · MODDING</text>
+  <rect x="1" y="1" width="1198" height="198" rx="17" fill="#0b0e14" stroke="#1c4a36" stroke-width="2"/>
+  <rect x="56" y="51" width="10" height="10" rx="2" fill="#22c97f"/>
+  <text x="78" y="61" class="mono" font-size="15" letter-spacing="2.5" fill="#8b95a5">EXPERIENCE · MODDING · ECO</text>
   <text x="54" y="118" class="sans" font-size="40" font-weight="700" letter-spacing="-.5" fill="#f0f3f6">Strange Loop Games</text>
-  <text x="56" y="160" class="sans" font-size="21" fill="#9aa4b2">Modder working with access to the game’s source code.</text>
+  <text x="56" y="160" class="sans" font-size="21" fill="#9aa4b2">Modder on Eco, working with access to the game’s source code.</text>
   <rect x="1006" y="40" width="146" height="32" rx="16" fill="#fff" fill-opacity=".025" stroke="#2a3342" stroke-width="1.5"/><circle cx="1028" cy="56" r="4" fill="#5c6675"/><text x="1042" y="60.5" class="mono" font-size="13" letter-spacing="1.5" fill="#c9d1d9">PREVIOUSLY</text>
-  <text x="1144" y="160" text-anchor="end" class="mono" font-size="14" letter-spacing="2" fill="#7d8796"></text>
+  <image x="1096.0" y="118" width="48.0" height="48" href="data:image/svg+xml;base64,CiAgPHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiPgogICAgCiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwgMCkiPgogICAgICAgICAgPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiM5NTNDQUQiIHJ4PSI2MCIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xOTUuNDM2IDEwMC42NjhWMTE0LjE0MkgyMDguOTFWMTAwLjY2OEgyMTUuNjQ3VjExNC4xNDJIMjI5LjEyVjEyMC44NzlIMjE1LjY0N1YxMzQuMzUySDIyOS4xMlYxNDEuMDg5SDIxNS42NDdWMTU0LjU2M0gyMDguOTFWMTQxLjA4OUgxOTUuNDM2VjE1NC41NjNIMTg4LjY5OVYxNDEuMDg5SDE3NS4yMjZWMTM0LjM1MkgxODguNjk5VjEyMC44NzlIMTc1LjIyNlYxMTQuMTQySDE4OC42OTlWMTAwLjY2OEgxOTUuNDM2Wk0yMDguOTEgMTIwLjg3OUgxOTUuNDM2VjEzNC4zNTJIMjA4LjkxVjEyMC44NzlaIi8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyMi4wMDEgMzNDMTU3LjE0NCAzMyAxODcuODI4IDUyLjA4NjMgMjA0LjI2MiA4MC40NTYxTDIwNC4xMDIgODAuMTgzTDE2Mi43NTMgMTAzLjk5MUMxNTQuNjA3IDkwLjE5NzcgMTM5LjY3MiA4MC44ODkyIDEyMi41NCA4MC42OTc1TDEyMi4wMDEgODAuNjk0NUM5NS44NzUgODAuNjk0NSA3NC42OTQ1IDEwMS44NzQgNzQuNjk0NSAxMjcuOTk5Qzc0LjY5NDUgMTM2LjU0MyA3Ni45NzIzIDE0NC41NTIgODAuOTMzNSAxNTEuNDY5Qzg5LjA4NzYgMTY1LjcwNCAxMDQuNDE2IDE3NS4zMDYgMTIyLjAwMSAxNzUuMzA2QzEzOS42OTMgMTc1LjMwNiAxNTUuMTA5IDE2NS41ODIgMTYzLjIyMiAxNTEuMTk1TDE2My4wMjUgMTUxLjU0TDIwNC4zMTEgMTc1LjQ1OEMxODguMDU3IDIwMy41ODggMTU3Ljc5NCAyMjIuNjE1IDEyMy4wNTkgMjIyLjk5NEwxMjIuMDAxIDIyM0M4Ni43NDYgMjIzIDU1Ljk3NTMgMjAzLjc5NiAzOS41ODIgMTc1LjI3NkMzMS41NzkxIDE2MS4zNTMgMjcgMTQ1LjIxMiAyNyAxMjcuOTk5QzI3IDc1LjUzMzQgNjkuNTMyMyAzMyAxMjIuMDAxIDMzWiIvPjwvc3ZnPgogICAgICAgIDwvZz4KICAgICAgICAKICA8L3N2Zz4KICA="/>
 </svg>
