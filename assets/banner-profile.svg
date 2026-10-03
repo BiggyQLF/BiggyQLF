@@ -35,7 +35,7 @@
   <text x="80" y="112" class="mono" font-size="15" letter-spacing="4" fill="#8b95a5">DEVELOPER</text>
   <text x="74" y="210" class="sans" font-size="96" font-weight="700" letter-spacing="-2" fill="#f0f3f6">Biggy</text>
   <text x="80" y="278" class="sans" font-size="26" fill="#9aa4b2">I build applications, websites and games.</text>
-  <rect x="80" y="316" width="20" height="3" fill="#22c97f"/><rect x="100" y="316" width="20" height="3" fill="#f8485e"/><rect x="120" y="316" width="20" height="3" fill="#2ea8f2"/>
+  <rect x="80.0" y="316" width="155.5" height="3" fill="#22c97f"/><rect x="235.5" y="316" width="155.5" height="3" fill="#f8485e"/><rect x="391.1" y="316" width="155.5" height="3" fill="#2ea8f2"/>
 
   <g class="float">
     <g transform="translate(787.4 67.4) scale(0.62)">

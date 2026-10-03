@@ -1,4 +1,4 @@
-<img src="assets/banner-home.svg" width="100%" alt="Biggy, developer. I build applications, websites and games." />
+<img src="assets/banner-profile.svg" width="100%" alt="Biggy, developer. I build applications, websites and games." />
 
 <p align="center">
   <a href="#experience"><b>Experience</b></a> ·
