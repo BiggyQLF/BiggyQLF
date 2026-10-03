@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 151 46" width="151" height="46" role="img" aria-label="Website">
+  <style>.sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }</style>
+  <rect x="1" y="1" width="149" height="44" rx="10" fill="#0b0e14" stroke="#3b2d63" stroke-width="1.5"/>
+  <rect x="1" y="1" width="149" height="44" rx="10" fill="#a78bfa" fill-opacity=".07"/>
+  <g fill="none" stroke="#f0f3f6" stroke-width="1.6"><circle cx="26" cy="23" r="9"/><ellipse cx="26" cy="23" rx="4.05" ry="9"/><line x1="17" y1="23" x2="35" y2="23"/></g>
+  <text x="48" y="28.5" class="sans" font-size="16" font-weight="600" fill="#e6edf3">Website</text>
+  <path d="M125 28L135 18M127 18H135V26" fill="none" stroke="#a78bfa" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
