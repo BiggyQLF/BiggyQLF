@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 252" width="1200" height="252" role="img" aria-labelledby="t">
+  <title id="t">Stack. ENGINE: Unreal Engine 5.8, Gameplay Ability System, Chaos Physics. LANGUAGES: C++, TypeScript. TOOLS: Visual Studio, Perforce, Git. WEB: React, Astro, Node.js, discord.js.</title>
+  <style>
+    .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .3; } }
+    @media (prefers-reduced-motion: reduce) { .pulse { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="250" rx="17" fill="#0b0e14" stroke="#1f2633" stroke-width="2"/>
+  <text x="56" y="64" class="mono" font-size="15" letter-spacing="2.5" fill="#8b95a5">ENGINE</text>
+  <rect x="56" y="80" width="24" height="2" fill="#f5a524"/>
+  <text x="56" y="120" class="sans" font-size="21" fill="#e6edf3">Unreal Engine 5.8</text>
+  <text x="56" y="154" class="sans" font-size="21" fill="#e6edf3">Gameplay Ability System</text>
+  <text x="56" y="188" class="sans" font-size="21" fill="#e6edf3">Chaos Physics</text>
+  <text x="340" y="64" class="mono" font-size="15" letter-spacing="2.5" fill="#8b95a5">LANGUAGES</text>
+  <rect x="340" y="80" width="24" height="2" fill="#f5a524"/>
+  <text x="340" y="120" class="sans" font-size="21" fill="#e6edf3">C++</text>
+  <text x="340" y="154" class="sans" font-size="21" fill="#e6edf3">TypeScript</text>
+  <text x="624" y="64" class="mono" font-size="15" letter-spacing="2.5" fill="#8b95a5">TOOLS</text>
+  <rect x="624" y="80" width="24" height="2" fill="#f5a524"/>
+  <text x="624" y="120" class="sans" font-size="21" fill="#e6edf3">Visual Studio</text>
+  <text x="624" y="154" class="sans" font-size="21" fill="#e6edf3">Perforce</text>
+  <text x="624" y="188" class="sans" font-size="21" fill="#e6edf3">Git</text>
+  <text x="908" y="64" class="mono" font-size="15" letter-spacing="2.5" fill="#8b95a5">WEB</text>
+  <rect x="908" y="80" width="24" height="2" fill="#f5a524"/>
+  <text x="908" y="120" class="sans" font-size="21" fill="#e6edf3">React</text>
+  <text x="908" y="154" class="sans" font-size="21" fill="#e6edf3">Astro</text>
+  <text x="908" y="188" class="sans" font-size="21" fill="#e6edf3">Node.js</text>
+  <text x="908" y="222" class="sans" font-size="21" fill="#e6edf3">discord.js</text>
+</svg>
