@@ -1,39 +1,22 @@
 <img src="assets/banner.svg" width="100%" alt="Biggy. I build applications, websites and games. Previously modding Eco at Strange Loop Games, with source-code access." />
 
 <p align="center">
+  <a href="#experience"><b>Experience</b></a> ·
   <a href="#applications"><b>Applications</b></a> ·
   <a href="#websites"><b>Websites</b></a> ·
   <a href="#unreal-engine-projects"><b>Unreal Engine projects</b></a> ·
-  <a href="#experience"><b>Experience</b></a> ·
   <a href="#tech-stack"><b>Tech stack</b></a>
 </p>
 
-Hi, I'm Biggy. I build applications and websites, and I'm working on two co-op games on Unreal Engine 5. My main project is **WARDOGS Companion**, a Twitch extension for WARDOGS players and streamers, with its own website and Discord bot.
+Hi, I'm Biggy. I was a modder on **Eco** at **Strange Loop Games**, with access to the game's source code. Today I build applications and websites, and I'm working on two co-op games on Unreal Engine 5. My main project is **WARDOGS Companion**, a Twitch extension for WARDOGS players and streamers, with its own website and Discord bot.
+
+## Experience
+
+<img src="assets/experience-slg.svg" width="100%" alt="Previous experience at Strange Loop Games. Modder on Eco, with access to the game's source code. Language: C#." />
 
 ## Applications
 
-### Featured: WARDOGS Companion
-
-<a href="https://wardogs-companion.vercel.app"><img src="assets/wardogs/viewer-panel.webp" width="100%" alt="The WARDOGS Companion viewer panel open over a stream: weapons, attachments, backpack and parachute" /></a>
-
-**Your WARDOGS loadout, live on stream.** An unofficial community Twitch extension that shows a streamer's full WARDOGS loadout in a panel over the video, item by item, with the prices, sizes and weights the game uses. The streamer builds it once in a live editor; viewers open it whenever they want, without asking in chat.
-
-**Video overlay** · **Live streamer editor** · **273 items** · **English and French** · **No server**
-
-<p>
-  <img src="assets/wardogs/item-card.webp" width="27%" alt="Item card for the FAL: weight, unlock price, class level, characteristics and price" />
-  <img src="assets/wardogs/streamer-editor.webp" width="71%" alt="The streamer editor: weapons, gear, vehicles and the backpack grid" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,vite&theme=dark" alt="React, TypeScript, Vite" />
-</p>
-
-<p>
-  <a href="https://wardogs-companion.vercel.app"><img src="https://img.shields.io/badge/Visit_the_website-a78bfa?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit the website" /></a>
-</p>
-
-### Other applications
+<a href="https://wardogs-companion.vercel.app"><img src="assets/featured-wardogs-companion.svg" width="100%" alt="Featured application: WARDOGS Companion, a Twitch extension. Your WARDOGS loadout, live on stream. Streamers build it once; viewers open it over the video. 273 items, English and French. Built with React, TypeScript and Vite." /></a>
 
 <img src="assets/app-wardogs-companion-bot.svg" width="100%" alt="WARDOGS Companion Bot. Application, Discord bot. Runs the project's Discord server: role buttons, support tickets, maintenance. JavaScript, Node.js, discord.js." />
 
@@ -48,10 +31,6 @@ Hi, I'm Biggy. I build applications and websites, and I'm working on two co-op g
 <img src="assets/ue-last-haven.svg" width="100%" alt="Last Haven. Unreal Engine 5.8, co-op survival: third-person survival, colony management and salvage expeditions. C++. In development." />
 
 <img src="assets/ue-moving-compagny.svg" width="100%" alt="Moving Compagny. Unreal Engine 5.8, co-op physics game for 1 to 4 players: a crew of movers chasing a weekly quota. C++. In development." />
-
-## Experience
-
-<img src="assets/experience-eco.svg" width="100%" alt="Strange Loop Games. Modder on Eco, working with access to the game's source code. C#." />
 
 ## Tech stack
 
