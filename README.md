@@ -51,7 +51,7 @@ Hi, I'm Biggy, a developer who enjoys building things people actually use. I mak
 </p>
 
 <p align="right">
-  <img src="assets/ue-moving-compagny.svg" width="100%" alt="Moving Compagny. Unreal Engine 5.8, co-op physics game for 1 to 4 players: a crew of movers chasing a weekly quota. C++. In development." />
+  <img src="assets/ue-moving-company.svg" width="100%" alt="Moving Company. Unreal Engine 5.8, co-op physics game for 1 to 4 players: a crew of movers chasing a weekly quota. C++. In development." />
 </p>
 
 ## Tech stack
