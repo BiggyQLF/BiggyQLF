@@ -12,7 +12,7 @@ Hi, I'm Biggy, a developer who enjoys building things people actually use. I mak
 
 ## Experience
 
-<img src="assets/experience-slg.svg" width="100%" alt="Previous experience at Strange Loop Games. Modder on Eco, with access to the game's source code. Language: C#." />
+<a href="https://github.com/StrangeLoopGames"><img src="assets/experience-strangeloop.svg" width="100%" alt="Previous experience at Strange Loop Games. Modder on Eco, with access to the game's source code. Language: C#. Link to the Strange Loop Games organization on GitHub." /></a>
 
 ## Applications
 
