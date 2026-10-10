@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="t">
-  <title id="t">Featured application: WARDOGS Companion, a Twitch extension. Approved by Twitch. Your WARDOGS loadout, live on stream. 273 items, English and French. Built with React, TypeScript and Vite.</title>
+  <title id="t">Featured application: WARDOGS Companion, a Twitch extension. Live on Twitch. Your WARDOGS loadout, live on stream. 273 items, English and French. Built with React, TypeScript and Vite.</title>
   <style>
     .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
     .mono { font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; }
@@ -52,9 +52,9 @@
   <text x="56" y="202" class="sans" font-size="20" fill="#9aa4b2">Streamers build it once; viewers open it over the video.</text>
 
   <rect x="56" y="232" width="3" height="66" rx="1.5" fill="#a78bfa" opacity=".6"/>
-  <text x="74" y="256" class="mono" font-size="13" letter-spacing="2.5" fill="#8b95a5">TWITCH REVIEW</text>
+  <text x="74" y="256" class="mono" font-size="13" letter-spacing="2.5" fill="#8b95a5">STATUS</text>
   <svg x="74" y="265" width="28" height="28" viewBox="0 0 28 28"><circle cx="14" cy="14" r="12.5" fill="#22c97f" fill-opacity=".15" stroke="#22c97f" stroke-width="1.5"/><path d="M8.5 14.5l3.5 3.5 7.5-8" fill="none" stroke="#22c97f" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
-  <text x="112" y="290" class="sans" font-size="24" font-weight="600" fill="#22c97f">Approved</text>
+  <text x="112" y="290" class="sans" font-size="24" font-weight="600" fill="#22c97f">Live on Twitch</text>
   <rect x="326" y="232" width="3" height="66" rx="1.5" fill="#a78bfa" opacity=".6"/>
   <text x="344" y="256" class="mono" font-size="13" letter-spacing="2.5" fill="#8b95a5">ITEMS</text>
   

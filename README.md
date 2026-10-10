@@ -22,9 +22,10 @@ Hi, I'm Biggy, a developer who loves creating new things and making them better 
 ## Applications
 
 <p align="right">
-  <a href="https://wardogs-companion.vercel.app"><img src="assets/featured-wardogs-companion-approved.svg" width="100%" alt="Featured application: WARDOGS Companion, a Twitch extension, approved by Twitch. Your WARDOGS loadout, live on stream. Streamers build it once; viewers open it over the video. 273 items, English and French. Built with React, TypeScript and Vite." /></a>
+  <a href="https://wardogs-companion.vercel.app"><img src="assets/featured-wardogs-companion-live.svg" width="100%" alt="Featured application: WARDOGS Companion, a Twitch extension, live on Twitch. Your WARDOGS loadout, live on stream. Streamers build it once; viewers open it over the video. 273 items, English and French. Built with React, TypeScript and Vite." /></a>
   <a href="https://wardogs-companion.vercel.app"><img src="https://img.shields.io/badge/Website-wardogs--companion.vercel.app-6d28d9?style=flat-square&labelColor=161b22" alt="Website: wardogs-companion.vercel.app" /></a>
   &nbsp;&nbsp;<a href="https://github.com/Wardogs-Companion"><img src="https://img.shields.io/badge/GitHub-Wardogs--Companion-6d28d9?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="GitHub: Wardogs-Companion" /></a>
+  &nbsp;&nbsp;<a href="https://dashboard.twitch.tv/extensions/hfhubjrsv0x7qqdcmnzjf5bxcnc2tm-0.0.1"><img src="https://img.shields.io/badge/Twitch-Install_the_extension-6d28d9?style=flat-square&logo=twitch&logoColor=white&labelColor=161b22" alt="Twitch: Install the extension" /></a>
 </p>
 
 <p align="right">
